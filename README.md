@@ -1,6 +1,6 @@
 
 # Data Extraction from PDFs
-![App Screenshot](https://github.com/Pratiksha8799/Python-Projects/blob/main/Basic_Charts/images/AI.png)
+![App Screenshot](https://github.com/Pratiksha8799/PDF_Data_Extraction/blob/main/AI.png)
 
 This is an overview and in-depth description of the COOP Data Extraction project. The goal of this project is to extract important data from a PDF file containing product information, clean it, translate it to English, and store it as a CSV file for further analysis.
 
